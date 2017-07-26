@@ -5,12 +5,12 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_10.jpg
-thumb: thumb02.jpg
+img: qcc-01.png
+thumb: qcc-01.png
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- qcc-01.png
+- qcc-02.png
+- qcc-03.png
 client: Wonder Corp.
 website: http://blacktie.co
 ---
