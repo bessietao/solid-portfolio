@@ -8,23 +8,23 @@ permalink: /
     <div class="container">
         <div class="row centered">
             <div class="col-md-4">
-                <i class="fa fa-heart-o"></i>
-                <h4>Handsomely Crafted</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <i class="fa fa-bar-chart"></i>
+                <h4>The Power of R</h4>
+                <p>We use the R language to construct data analytics pipelines and insightful visualizations.</p>
                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
-                <i class="fa fa-flask"></i>
-                <h4>Retina Ready</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <i class="fa fa-map-marker"></i>
+                <h4>Spatial Analytics</h4>
+                <p>We rely on the latest technologies to deliver statistical services.</p>
                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
             </div>
             <div class="col-md-4">
-                <i class="fa fa-trophy"></i>
-                <h4>Quality Theme</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <i class="fa fa-cogs"></i>
+                <h4>Interactive Apps</h4>
+                <p>We build Shiny and OpenCPU to build web applications.</p>
                 <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
-            </div>		 				
+            </div>
         </div>
     </div><! --/container -->
 </div><! --/service -->
@@ -42,7 +42,7 @@ permalink: /
         <div class="col-lg-3">
             <h4>Frequently Asked</h4>
             <div class="hline"></div>
-            {% for post in site.categories['question'] %} 
+            {% for post in site.categories['question'] %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
             {% endfor %}
         </div>
@@ -50,9 +50,9 @@ permalink: /
         <div class="col-lg-3">
             <h4>Latest Posts</h4>
             <div class="hline"></div>
-            {% for post in site.categories['blog'] limit:5 %} 
+            {% for post in site.categories['blog'] limit:5 %}
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
-            {% endfor %} 
+            {% endfor %}
         </div>
 
     </div><! --/row -->
