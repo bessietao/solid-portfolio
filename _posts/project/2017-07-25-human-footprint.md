@@ -1,8 +1,8 @@
 ---
 layout: project
 title:  "Human Footprint"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+date:   2017-07-25
+author: Peter
 categories:
 - project
 img: hf-01.png
@@ -10,11 +10,10 @@ carousel:
 - hf-01.png
 - hf-02.png
 - hf-03.png
-client: Wonder Corp.
-website: http://blacktie.co
+client: None Corp.
+website: http://206.167.180.241/ocpu/library/footprintchange/www/
 ---
-#### YOUR PROJECT NAME
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
-#### Our Proposal
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+#### Explore Human Footprint in Alberta Over Time
+
+This is a demo based on ABMI human footprint data.
