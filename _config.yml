@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Glassroot Analytics
-description: "We provide powerful web applications and dshboards focusing on environmental management."
+title: Bessie Tao
+description: Illustration design for you.
 analytics: UA-50546869-2uuaa #change this when set
 baseurl: "/solid-portfolio" #important: start with /
 url: "https://bessietao.github.io"
@@ -45,8 +45,8 @@ address:
     - 12345 67 Ave NW,
     - Edmonton AB,
     - Canada.
-email: email@companyname.com
-tel: 780-123-4567
+email: taobeixi@gmail.com
+tel: 000000
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -88,6 +88,6 @@ about: "Statistical computing meets environmental management."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: "d not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    author: BESSIE
+    position: ILLUSTRATOR AND DESIGNER
