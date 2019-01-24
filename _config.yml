@@ -2,7 +2,7 @@
 
 # Site settings
 title: "Bessie Tao 陶贝茜"
-description: Illustration design for you.
+description: Illustration designing for you.
 analytics: UA-50546869-2uuaa #change this when set
 baseurl: "/solid-portfolio" #important: start with /
 url: "https://bessietao.github.io"
@@ -32,7 +32,7 @@ social:
     url:
   - title: twitter
     url:
-  - title: github
+  - title: instagram
     url:
 #  - title: instagram
 #    url:
