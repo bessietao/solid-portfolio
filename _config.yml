@@ -5,7 +5,7 @@ title: Glassroot Analytics
 description: "We provide powerful web applications and dshboards focusing on environmental management."
 analytics: UA-50546869-2uuaa #change this when set
 baseurl: "/solid-portfolio" #important: start with /
-url: "http://peter.solymos.org"
+url: ""
 
 # Build settings
 markdown: kramdown
