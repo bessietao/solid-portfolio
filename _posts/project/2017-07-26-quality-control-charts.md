@@ -1,20 +1,20 @@
 ---
 layout: project
-title:  "Quality Control Charts"
+title:  "My Hockney"
 date:   2017-07-26
-author: Peter
+author: BESSIE
 categories:
 - project
-img: qcc-01.png
-thumb: qcc-01.png
+img: myhockney.jpg
+thumb: myhockney.jpg
 carousel:
-- qcc-01.png
-- qcc-02.png
-- qcc-03.png
-client: Other Corp.
+- myhockney.jpg
+- myhockney2.jpg
+
+client: Personal project
 website: http://206.167.180.241:3838/qcc/
 ---
 
 #### Quality Control Charts Made Easy
 
-Various Quality Control Charts (QCCs) can be fit. Upload your own data or explore an example.
+balbala
