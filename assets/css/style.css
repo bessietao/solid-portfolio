@@ -159,7 +159,7 @@ a:focus {
   border-color: #ffd4a3;
 }
 
-/*	which button ? */
+/*	which button ?  */
 .dmbutton:hover,
 .dmbutton:active,
 .dmbutton:focus{
@@ -219,13 +219,13 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background: #ffd4a3 url('../img/heard.jpg');
+	background: transparent url('../img/head.png');
 	background-position: center center;
 	background-size: auto 100%;
 	background-repeat: no-repeat;
 	min-height: 0px;
-	padding-top: 500px;
-	padding-bottom: 50px;
+	padding-top: 300px;
+	padding-bottom: 200px;
 	text-align: center;
 }
 
