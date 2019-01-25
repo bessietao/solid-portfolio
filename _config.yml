@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: "Bessie Tao 陶贝茜"
+title: "Bessie Tao"
 description: Illustration designing for you.
 analytics: UA-50546869-2uuaa #change this when set
 
@@ -40,10 +40,11 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - 12345 67 Ave NW,
-    - Edmonton AB,
-    - Canada.
-email: taobeixi@gmail.com
+    - Camberwell College of Arts
+    - 45 - 65 Peckham Road
+    - London
+    - SE5 8UF
+email: b.tao0720181@arts.ac.uk
 tel: 000000
 
 
