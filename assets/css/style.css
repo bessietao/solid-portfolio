@@ -6,8 +6,8 @@
 	Project Name: SOLID - Bootstrap 3 Theme
 	Version: 1.0
 	URL: http://alvarez.is
-	
-################################################################# */ 
+
+################################################################# */
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,900);
 @import url("prettyPhoto.css") screen;
@@ -16,15 +16,15 @@
 /*	################################################################
 	1. GENERAL STRUCTURES
 ################################################################# */
-	* { 
+	* {
 		margin: 0;
 		padding: 0px;
-	} 
+	}
 
-body { 
-	background: #ffffff; 
-	margin: 0; 
-	height: 100%; 
+body {
+	background: #ffffff;
+	margin: 0;
+	height: 100%;
 	color: #384452;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
@@ -35,15 +35,15 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
 }
 
-p { 
-	padding: 0; 
-	margin-bottom: 12px; 
+p {
+	padding: 0;
+	margin-bottom: 12px;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
-	font-size: 14px; 
+	font-size: 14px;
 	line-height: 24px;
-	color: #384452; 
-	margin-top: 10px; 
+	color: #384452;
+	margin-top: 10px;
 }
 
 img {
@@ -61,11 +61,11 @@ ol {
     padding-left: 26px;
 }
 
-a { 
+a {
     color:#428bca;
     padding: 0;
 	margin: 0;
-	text-decoration: none; 
+	text-decoration: none;
 	-webkit-transition: background-color .4s linear, color .4s linear;
 	-moz-transition: background-color .4s linear, color .4s linear;
 	-o-transition: background-color .4s linear, color .4s linear;
@@ -108,43 +108,44 @@ a:focus {
 }
 
 .navbar-header .navbar-brand {
-	color: white;
+	color: #979899;
+	font-size: 20px
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: white;
+	color: #cca478;
 	font-weight: 700;
 	font-size: 12px;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #00b3fe;
+	color: #ffd4a3;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #00b3fe;
+	color: #ffd4a3;
 	background-color: transparent;
 }
 
 .navbar-default {
-	background-color: #384452;
+	background-color: transparent;
 	border-color: transparent;
 }
 
 .dropdown-menu {
-	background: #384452;
+	background: #fff;
 }
 
 .dropdown-menu > li > a {
-	color: white;
+	color: #cca478;
 	font-weight: 700;
 	font-size: 12px;
 }
 
 .btn-theme {
   color: #fff;
-  background-color: #384452;
-  border-color: #384452;
+  background-color: #cca478;
+  border-color: #cca478;
   margin: 4px;
 }
 .btn-theme:hover,
@@ -153,10 +154,11 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: #00b3fe;
-  border-color: #00b3fe;
+  background-color: #ffd4a3;
+  border-color: #ffd4a3;
 }
 
+/*	which button ? */
 .dmbutton:hover,
 .dmbutton:active,
 .dmbutton:focus{
@@ -204,7 +206,7 @@ a:focus {
 }
 
 .hline {
-	border-bottom: 2px solid #384452;
+	border-bottom: 2px solid #ffd4a3;
 }
 
 .hline-w {
@@ -216,9 +218,12 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: #00b3fe;
+	background: #ffd4a3 url('../img/heard.jpg');
+	background-position: center center;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
 	min-height: 0px;
-	padding-top: 100px;
+	padding-top: 500px;
 	padding-bottom: 50px;
 	text-align: center;
 }
@@ -269,7 +274,7 @@ a:focus {
 
 
 .portfolio-item .title:before {border-radius:0; display:none}
-.portfolio-item p {margin:0px 0 30px;}
+.portfolio-item p {margin:0px 0 100px;}
 .portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
 
 
@@ -318,7 +323,7 @@ a:focus {
 	background-position: center center;
 	min-height: 450px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -357,12 +362,12 @@ a:focus {
 /* Footer */
 #footerwrap {
 	padding-top: 60px;
-	padding-bottom: 60px;
-	background: #384452;
+	padding-bottom: 10px;
+	background: #ffd4a3;
 }
 
 #footerwrap p {
-	color: #bfc9d3;
+	color: #ffffff;
 }
 
 #footerwrap h4 {
@@ -371,12 +376,12 @@ a:focus {
 
 #footerwrap i {
 	font-size: 30px;
-	color: #bfc9d3;
+	color: #751e66;
 	padding-right: 25px;
 }
 
 #footerwrap i:hover {
-	color: #00b3fe
+	color: #ffb2b2
 }
 
 /*	################################################################
@@ -385,7 +390,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #00b3fe;
+	background: #ffd4a3;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -397,6 +402,7 @@ a:focus {
 	margin-left: 15px;
 }
 
+/* 滑动图片库 */
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
@@ -449,7 +455,7 @@ csmall {
 	background-position: center center;
 	min-height: 400px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -462,27 +468,27 @@ csmall {
 }
 
 /* Blog Page */
-.popular-posts { 
+.popular-posts {
 	margin: 0px;
 	padding-left: 0px;
 	}
-	
+
 .popular-posts li {
-	list-style: none; 
-	margin-bottom: 20px; 
+	list-style: none;
+	margin-bottom: 20px;
 	min-height: 70px;
 }
-.popular-posts li a, 
+.popular-posts li a,
 .popular-posts li a:hover {
-	color:#2f2f2f; 
+	color:#2f2f2f;
 	text-decoration: none;
 	}
-	
+
 .popular-posts li img {
-	float: left; 
+	float: left;
 	margin-right: 20px;
 	}
-	
+
 .popular-posts li em {
 	font-family: 'Lato', sans-serif;
 	font-size: 12px;
@@ -492,7 +498,7 @@ csmall {
 .popular-posts p {
 	line-height: normal;
 	margin-bottom: auto;
-}	
+}
 
 .share i {
 	padding-right: 15px;
@@ -500,8 +506,8 @@ csmall {
 }
 
 a.anchor{
-    display: block; 
-    position: relative; 
-    top: -80px; 
+    display: block;
+    position: relative;
+    top: -80px;
     visibility: hidden;
 }
