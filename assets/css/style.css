@@ -25,7 +25,7 @@ body {
 	background: #ffffff;
 	margin: 0;
 	height: 100%;
-	color: #384452;
+	color: #635e55;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
 	}
@@ -42,7 +42,7 @@ p {
 	font-weight: 400;
 	font-size: 14px;
 	line-height: 24px;
-	color: #384452;
+	color: #635e55;
 	margin-top: 10px;
 }
 
@@ -119,11 +119,11 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #ffd4a3;
+	color: #7c7467;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #ffd4a3;
+	color: #7c7467;
 	background-color: transparent;
 }
 
@@ -133,7 +133,7 @@ a:focus {
 }
 
 .dropdown-menu {
-	background: #fff;
+	background: #cca478;
 }
 
 .dropdown-menu > li > a {
@@ -297,8 +297,8 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:#00b3fe;
-	background-color:rgba(0,179,254,.9);
+	background-color:#ffd4a3;
+	background-color:rgba(255,212,163,0.8);
 	text-align:center;
 }
 
@@ -426,7 +426,7 @@ a:focus {
 }
 
 .ctitle {
-	color: #00b3fe;
+	color: #cca478;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -442,7 +442,7 @@ csmall {
 }
 
 .badge-theme {
-	background: #00b3fe;
+	background: #ffd4a3;
 }
 
 /* Contact Page */
