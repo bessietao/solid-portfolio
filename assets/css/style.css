@@ -116,7 +116,7 @@ a:focus {
 	color: #cca478;
 	font-weight: 700;
 	font-size: 13px;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
@@ -134,16 +134,13 @@ a:focus {
 }
 
 .dropdown-menu {
-	background: #7c7467;
-	margin-top: 10px;
+	background: #cca478;
 }
 
 .dropdown-menu > li > a {
 	color: #cca478;
 	font-weight: 700;
-	font-size: 15px;
-	margin-top: 10px;
-	padding-top: 10px;
+	font-size: 12px;
 }
 
 .btn-theme {
