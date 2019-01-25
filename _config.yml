@@ -4,11 +4,6 @@
 title: "Bessie Tao 陶贝茜"
 description: Illustration designing for you.
 analytics: UA-50546869-2uuaa #change this when set
-<<<<<<< HEAD
-baseurl: "/solid-portfolio" #important: start with /
-url: "https://bessietao.work"
-=======
->>>>>>> 1d44e96f589034fd444a8cf746fb48fb2a5f1ea1
 
 # Build settings
 markdown: kramdown

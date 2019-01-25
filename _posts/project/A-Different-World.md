@@ -16,4 +16,4 @@ website: http://206.167.180.241/ocpu/library/footprintchange/www/
 
 #### Explore Human Footprint in Alberta Over Time
 
-This is a demo based on ABMI human footprint data.
+This is a demo.
