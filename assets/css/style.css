@@ -97,7 +97,7 @@ a:focus {
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
 .navbar {
-	min-height: 100px;
+	min-height: 110px;
 	padding-top: 0px;
 	margin-bottom: 0px;
 }
@@ -116,7 +116,7 @@ a:focus {
 	color: #cca478;
 	font-weight: 700;
 	font-size: 13px;
-  margin-top: 15px;
+  margin-top: 20px;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
@@ -134,7 +134,7 @@ a:focus {
 }
 
 .dropdown-menu {
-	background: #cca478;
+	background: #7c7467;
 }
 
 .dropdown-menu > li > a {
