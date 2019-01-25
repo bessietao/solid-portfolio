@@ -97,25 +97,26 @@ a:focus {
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
 .navbar {
-	min-height: 70px;
-	padding-top: 10px;
+	min-height: 100px;
+	padding-top: 0px;
 	margin-bottom: 0px;
 }
 
 .navbar-brand {
 	font-family: 'Raleway', sans-serif;
-	font-weight: 900;
+	font-weight: 600; /* 字体粗细 */
 }
 
 .navbar-header .navbar-brand {
 	color: #979899;
-	font-size: 20px
+	font-size: 15px
 }
 
 .navbar-default .navbar-nav > li > a {
 	color: #cca478;
 	font-weight: 700;
-	font-size: 12px;
+	font-size: 13px;
+  margin-top: 15px;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
