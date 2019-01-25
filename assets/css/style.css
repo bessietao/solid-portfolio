@@ -135,12 +135,14 @@ a:focus {
 
 .dropdown-menu {
 	background: #7c7467;
+	margin-top: 10px;
 }
 
 .dropdown-menu > li > a {
 	color: #cca478;
 	font-weight: 700;
 	font-size: 12px;
+	margin-top: 10px;
 }
 
 .btn-theme {
