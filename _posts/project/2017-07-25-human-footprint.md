@@ -1,11 +1,11 @@
 ---
 layout: project
-title:  "Human Footprint"
+title:  "A Different World"
 date:   2017-07-25
-author: Peter
+author: BESSIE
 categories:
 - project
-img: hf-01.png
+img: eyesopen.jpg
 carousel:
 - hf-01.png
 - hf-02.png
