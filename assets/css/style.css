@@ -219,23 +219,23 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background: transparent url('../img/head.png');
+	background: transparent;
 	background-position: center center;
 	background-size: auto 100%;
 	background-repeat: no-repeat;
 	min-height: 0px;
-	padding-top: 300px;
-	padding-bottom: 200px;
+	padding-top: 150px;
+	padding-bottom: 70px;
 	text-align: center;
 }
 
 #headerwrap h3, h5 {
-	color: white;
+	color: #cca478;
 	font-weight: 400;
 }
 
 #headerwrap h1 {
-	color: white;
+	color:#cca478;
 	margin-bottom: 25px;
 }
 
@@ -386,21 +386,22 @@ a:focus {
 }
 
 /*	################################################################
-	PAGE CONFIGURATIONS
+	PAGE CONFIGURATIONS (page headerwraper)
 ################################################################# */
 /* General Tweaks */
 
-#blue {
+#blue {   /* 页面的长条框框 */
 	background: #ffd4a3;
-	margin-top: 60px;
-	margin-bottom: 60px;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
-#blue h3 {
+#blue h3 { /* 页面的长条框框 */
 	color: white;
-	margin-left: 15px;
+	text-align:center;
+	margin-top: 30px;
 }
 
 /* 滑动图片库 */
