@@ -53,7 +53,6 @@ tel: 000000
 # Members information. Shown on About page.
 members:
   - name: Bessie Tao
-    position: CEO
     text: K has worked in the indostry and knows a lot.
     img: team01.jpg
     social:
@@ -61,15 +60,7 @@ members:
         url: mailto:name@domain.com
       - title: twitter
         url: http://twitter.com/handle
-  - name: Peter Solymos
-    position: Lead Developer
-    text: P know programming.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/psolymos
+
 
 # Clients information. Shown on Home and About pages.
 clients:
