@@ -10,18 +10,16 @@ permalink: /contact/
     <div class="row" >
         <div class="col-lg-4">
             <h4>Contact Details</h4>
+            <br>
+            <div class="hline"></div>
+                <p>
+                    Email: <a href="mailto:{{ site.email }}" </a> {{ site.email }}
+                </p>
             <div class="hline"></div>
                 <p>
                     {% for line in site.address.first.lines %}
                         {{ line }} <br>
                     {% endfor %}
-                </p>
-            <div class="hline"></div>
-                <p>
-                    Email: <br> <a href="mailto:{{ site.email }}" </a> {{ site.email }}
-                </p>
-                <p>
-                    Tel: {{ site.tel }}
                 </p>
 
             <div class="hline"></div>
