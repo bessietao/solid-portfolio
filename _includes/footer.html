@@ -1,19 +1,15 @@
 <div id="footerwrap">
     <div class="container">
         <div class="row">
-          <div class="col-lg-4">
-              <h4>Our Bunker</h4>
-              <div class="hline-w"></div>
-              <p>
-                  {% for line in site.address.first.lines %}
-                      {{ line }} <br>
-                  {% endfor %}
-              </p>
-          </div>
             <div class="col-lg-4">
                 <h4>About</h4>
                 <div class="hline-w"></div>
                 <p>{{ site.about }}</p>
+            </div>
+            <div class="col-lg-4">
+                <h4>Contact</h4>
+                <div class="hline-w"></div>
+                <p>  Email: <a href="mailto:{{ site.email }}" </a>{{ site.email }}</p>
             </div>
             <div class="col-lg-4">
                 <h4>Social Links</h4>
